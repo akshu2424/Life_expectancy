@@ -1,1 +1,1 @@
-# Life_expentency
+# Life_expenancy
